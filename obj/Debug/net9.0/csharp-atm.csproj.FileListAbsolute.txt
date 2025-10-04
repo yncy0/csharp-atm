@@ -1,0 +1,14 @@
+/home/nyanya/Projects/csharp-atm/obj/Debug/net9.0/csharp-atm.GeneratedMSBuildEditorConfig.editorconfig
+/home/nyanya/Projects/csharp-atm/obj/Debug/net9.0/csharp-atm.AssemblyInfoInputs.cache
+/home/nyanya/Projects/csharp-atm/obj/Debug/net9.0/csharp-atm.AssemblyInfo.cs
+/home/nyanya/Projects/csharp-atm/obj/Debug/net9.0/csharp-atm.csproj.CoreCompileInputs.cache
+/home/nyanya/Projects/csharp-atm/bin/Debug/net9.0/csharp-atm
+/home/nyanya/Projects/csharp-atm/bin/Debug/net9.0/csharp-atm.deps.json
+/home/nyanya/Projects/csharp-atm/bin/Debug/net9.0/csharp-atm.runtimeconfig.json
+/home/nyanya/Projects/csharp-atm/bin/Debug/net9.0/csharp-atm.dll
+/home/nyanya/Projects/csharp-atm/bin/Debug/net9.0/csharp-atm.pdb
+/home/nyanya/Projects/csharp-atm/obj/Debug/net9.0/csharp-atm.dll
+/home/nyanya/Projects/csharp-atm/obj/Debug/net9.0/refint/csharp-atm.dll
+/home/nyanya/Projects/csharp-atm/obj/Debug/net9.0/csharp-atm.pdb
+/home/nyanya/Projects/csharp-atm/obj/Debug/net9.0/csharp-atm.genruntimeconfig.cache
+/home/nyanya/Projects/csharp-atm/obj/Debug/net9.0/ref/csharp-atm.dll
