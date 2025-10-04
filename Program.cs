@@ -111,6 +111,12 @@ void onExit()
     looper = false;
 }
 
+/**
+ * @warning - you have free will on how the flow of your program.
+ *
+ * You can call onSelectChoice(); as far as you wish
+ */
+
 void onSelectChoice()
 {
     string userInput = "";
